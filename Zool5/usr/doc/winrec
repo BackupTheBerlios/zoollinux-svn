@@ -1,0 +1,10 @@
+
+
+NO one can make something to recovery windows ! :) 
+solution is easy , " Install Linux ! " 
+
+but i can give you few tips : Zool4 supports ntfs and fat16/32 , you can mount your 
+Win parition and do what it need , easy as : 
+#mount /dev/hda2 /mnt 
+then goto /mnt directory and start restoration . 
+

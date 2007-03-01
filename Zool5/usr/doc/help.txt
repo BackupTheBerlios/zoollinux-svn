@@ -1,0 +1,37 @@
+
+
+This is Version 4 of Zool Linux project , 
+Zool 4 Supports better networking , newer software and utilities . 
+
+This Commands are supported : 
+sh             chgrp      e2fsck       ifconfig  mkdosfs       rm
+umount         chmod      fdformat     init      mke2fs        rmdir
+fsck.ext2      chown      find         insmod    mkreiserfs    rmmod
+fsck.ext3      chroot     free         kill      mkswap        telnet
+mkfs.ext2      clear      fsck         killall   mount         touch
+mkfs.ext3      cp         halt         ln        mv            
+ash            date       hdparm       ls        ping
+cat            dd         head         lsmom     reboot
+cfdisk         dmesg      hostname     mkdir     reiserfsck
+
+i hope you like it ;
+please report bug at Zoup@zoup.org  or at 
+Project home page : ZoolLinux.sourceforge.net 
+
+
+if you need any help , just type one of this : 
+"lilo_rec" : lilo Recovery and ... 
+"win_rec" : HowTo Windows Recovery!
+"mbr_rec" : backup mbr and ...
+"set_net" : setting network card working and use network .
+"set_mod" : install your computer devices with their kernel modules . 
+
+example : 
+
+#set_net
+Zool4 supports networking and driver for ... 
+
+
+Zool4 also supports 8 Virtual Terminal ( alt + 
+F1-8 ) and kernel log on virtual terminal 9 . 
+

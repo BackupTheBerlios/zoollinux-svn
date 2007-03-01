@@ -1,0 +1,9 @@
+
+
+Every file system had an fsck file that checks make everything on fs currect , for example 
+on a reiserfs partition you must use : 
+#reiserfsck /dev/hda1
+if you need to install new fs you can use : 
+#mkfs.ext3 /dev/hda1 
+also you can use mkfs.ext3 or mkreiserfs if you want :) 
+

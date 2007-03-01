@@ -1,0 +1,10 @@
+
+
+if you had problem with lilo , restoration is easy , just chroot your linuxbox partition : 
+#chroot /dev/hda1 /mnt 
+and check lilo.conf file , or use 
+#man lilo.conf 
+if you dont know what is lilo.conf ;) the just type lilo 
+#lilo
+and check lilo output :) 
+

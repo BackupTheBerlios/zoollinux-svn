@@ -1,0 +1,10 @@
+export HOME=/root
+export PATH="/usr/bin:/bin:/usr/sbin:/sbin:."
+export SHELL="/bin/ash"
+export HISTSIZE=100
+export PAGER=more
+export EDITOR="vi"
+export PS1="Zool5 \\w >"
+ulimit -c 0
+umask 022
+alias cd='chdir'

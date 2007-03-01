@@ -1,0 +1,17 @@
+Zool5 Built on Standard Linux 2.6.6 , you can see .config file on /proc/config . 
+
+General : 
+
+Sysctl Support , no-op I/O Scheduler , Kernel 2.6.x model support ,
+generic x86 Support , cpuid support , PCI Support , ELF Binary Support .
+
+Device :
+
+Normal Floppy Disk Support , PCI Support , LoopBack Device support , 
+Ram Disk Support ( 8192 ) , ide/ata and ide/ata2 support with some generic
+chips , Intel Pro/100+ network cards , Natsemi , NE2000 and clone , 
+Realtek 8139-pci 8129 and 8130 , Some standard keyboards .
+
+FileSystem : 
+
+Reiserfs , Ext3 , Minix , Room , fat , ntfs , devfs , swap and proc all are Read/Write .

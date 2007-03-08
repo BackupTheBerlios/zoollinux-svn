@@ -1,0 +1,16 @@
+::sysinit:/etc/rc.d/rc.S
+::respawn:-/bin/sh
+tty0::askfirst:-/bin/sh
+vc/2::askfirst:-/bin/sh
+vc/3::askfirst:-/bin/sh
+vc/4::askfirst:-/bin/sh
+vc/5::askfirst:-/bin/sh
+vc/6::askfirst:-/bin/sh
+vc/7::askfirst:-/bin/sh
+vc/8::askfirst:-/bin/sh
+vc/9::askfirst:-/bin/sh
+vc/10::askfirst:-/bin/sh
+vc/11::askfirst:-/bin/sh
+vc/12::askfirst:-/bin/sh
+::ctrlaltdel:/bin/umount -a -r 
+::ctrlaltdel:/sbin/reboot

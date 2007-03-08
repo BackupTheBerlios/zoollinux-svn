@@ -1,0 +1,7 @@
+Currently defined functions:
+[, ar, arping, ash, basename, bunzip2, busybox, bzcat, cal, cat, chgrp, chmod, chown, chroot, clear, cp, cpio,
+date, dd, df, dmesg, dumpleases, echo, egrep, env, fdformat, fdisk, fgrep, find, free, freeramdisk, ftpget, ftpput,
+grep, gunzip, gzip, hdparm, head, hostname, httpd, ifconfig, init, insmod, ipcalc, kill, length, ln, ls, lsmod,
+makedevs, md5sum, mkdir, mkfifo, mknod, mkswap, modprobe, more, mount, mv, nc, nslookup, ping, poweroff, ps, pwd,
+reboot, reset, rm, rmdir, rmmod, route, sh, sort, swapoff, swapon, sync, tail, tar, telnet, telnetd, test, tftp,
+top, touch, tr, traceroute, udhcpc, udhcpd, umount, uname, uncompress, unzip, uptime, vi, wc, wget, zcat . 

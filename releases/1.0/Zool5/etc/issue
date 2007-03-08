@@ -1,0 +1,1 @@
+echo -e "\033[1;34mWelcome to the \033[32mZool-5\033[34m Disk!      \033[37mHttp://ZoolLinux.Sourceforge.Net      \033[30mType 'help' for help or see /root/doc Documents .\033[0;37m"

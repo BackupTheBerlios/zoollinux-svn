@@ -1,0 +1,9 @@
+
+
+Zool4 supports Kernel modules , so you can install your network card , file system and ... 
+easy with using insmod command , 
+#insmod [kernel modules name] 
+or remove it with 
+#remmod [kernel modules name] 
+
+you can see which modules are now loaded with lsmod command :) 

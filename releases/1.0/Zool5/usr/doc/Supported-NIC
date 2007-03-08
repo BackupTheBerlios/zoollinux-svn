@@ -1,0 +1,46 @@
+Intel(R) PRO/100+ family :  
+   82558       PRO/100+ PCI Adapter               668081-xxx,                                                                                                   
+   689661-xxx                                                                                                                                                   
+   82558       PRO/100+ Management Adapter        691334-xxx,                                                                                                   
+   701738-xxx,                                                                                                                                                  
+   721383-xxx                                                                                                                                                   
+   82558       PRO/100+ Dual Port Server Adapter  714303-xxx,                                                                                                   
+   711269-xxx,                                                                                                                                                  
+   A28276-xxx                                                                                                                                                   
+   82558       PRO/100+ PCI Server Adapter        710550-xxx                                                                                                    
+   82550       PRO/100 S Server Adapter           752438-xxx                                                                                                    
+   82559                                          A56831-xxx,                                                                                                   
+   A10563-xxx,                                                                                                                                                  
+   A12171-xxx,                                                                                                                                                  
+   A12321-xxx,                                                                                                                                                  
+   A12320-xxx,                                                                                                                                                  
+   A12170-xxx                                                                                                                                                   
+   748568-xxx                                                                                                                                                   
+   748565-xxx                                                                                                                                                   
+   82550       PRO/100 S Desktop Adapter          751767-xxx                                                                                                    
+   82559                                          748592-xxx,                                                                                                   
+   A12167-xxx,                                                                                                                                                  
+   A12318-xxx,                                                                                                                                                  
+   A12317-xxx,                                                                                                                                                  
+   A12165-xxx,                                                                                                                                                  
+   748569-xxx      
+
+National Semiconductor DP8381x series PCI Ethernet support .
+
+RealTek RTL-8139 and RTL-8129/8130 PCI Family and RealTek RTL-8139 C+ PCI Fast Ethernet Adapter :
+   Many cards are using this chips , most of Dlink 100 MB Cards .
+
+
+PCI NE2000 Family and clones support :
+  RealTek RTL-8029  Winbond 89C940  Compex RL2000  KTI ET32P2                                                                                                  
+  NetVin NV5000SC   Via 86C926      SureCom NE34   Winbond                                                                                                     
+  Holtek HT80232    Holtek HT80229
+
+VIA "Rhine" based network card (Rhine-I (VT86C100A) :    
+  Rhine-II (VT6102), or Rhine-III (VT6105)). Rhine-type                                                                                            
+  Ethernet functions can also be found integrated on South Bridges                                                                                             
+  (e.g. VT8235).
+
+TI ThunderLAN Family Cards : 
+   Devices currently supported by this driver are Compaq Netelligent,                                                                                           
+   Compaq NetFlex and Olicom cards. 

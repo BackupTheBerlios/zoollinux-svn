@@ -1,0 +1,20 @@
+
+
+Zool4 supports networking and driver for PCI NE2000 cards : 
+
+RealTek RTL-8029  Winbond 89C940  Compex RL2000  KTI ET32P2                
+NetVin NV5000SC   Via 86C926      SureCom NE34   Winbond                     
+Holtek HT80232    Holtek HT80229  
+
+Also "RealTek rtl-8139" bassed cards are supported .  
+
+if you got another card , you must use insmod , check set_mod
+Zool4 set IP address to 192.168.0.1 and hostname to Zool4 , you 
+can change it if you want ;) Example : 
+
+#ifconfig 192.170.14.100
+#hostname idontlikezool4 
+
+you can use zool4 telnet client too ;)
+
+
